@@ -1,6 +1,8 @@
 # stardew-teleport
 Stardew Valley SMAPI mod. Teleports your player to current cursor position.
 
+[Mod on Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/17934)
+
 ﻿This mod allows you to teleport your player to current mouse position.
 
 ## Install
@@ -18,4 +20,5 @@ Stardew Valley SMAPI mod. Teleports your player to current cursor position.
 
 - Works with Stardew Valley 1.5.6 on Linux/macOS/Windows.
 - Works in single player and multiplayer.
+
 
